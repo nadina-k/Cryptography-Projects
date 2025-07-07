@@ -1,4 +1,4 @@
-# Cryptography-Projects
+
 # Cryptography Project
 
 A collection of Python scripts demonstrating core cryptographic techniques, including RSA encryption, digital signatures, and custom hashing. This project is designed for educational purposes and showcases how these cryptographic primitives work under the hood.
